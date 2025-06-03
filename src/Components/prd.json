@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Alice",
+    "category": "Science",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "name": "Bob",
+    "category": "Math",
+    "price": 250
+  },
+  {
+    "id": 3,
+    "name": "Charlie",
+    "category": "English",
+    "price": 200
+  },
+  {
+    "id": 4,
+    "name": "David",
+    "category": "History",
+    "price": 275
+  },
+  {
+    "id": 5,
+    "name": "Eva",
+    "category": "Computer Science",
+    "price": 350
+  }
+]
